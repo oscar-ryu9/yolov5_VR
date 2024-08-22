@@ -1,0 +1,4 @@
+Classification Accuracy: 0.992
+Detection IOU: 0.953
+Test time: 96.215 seconds
+Test speed: 51.967 images / second
